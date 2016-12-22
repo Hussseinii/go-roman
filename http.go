@@ -1,6 +1,6 @@
 package main
 
-import (kjhsdrfuisdhrtkewkuf
+import (
     "fmt"
     "net/http"
     "strconv"
